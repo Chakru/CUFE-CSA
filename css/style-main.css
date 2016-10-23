@@ -108,6 +108,10 @@ This file contains the common styles of this theme.
   color: #fff;
   text-shadow: none;
 }
+.shiftl{
+
+  margin-left: -350px;
+}
 :active,
 :focus {
   outline: none !important;
@@ -1745,6 +1749,7 @@ section > .container-fluid {
   font-size: 13px;
   font-weight: 400;
 }
+
 .menuzord .menuzord-menu > li.active > a i,
 .menuzord .menuzord-menu > li:hover > a i,
 .menuzord .menuzord-menu ul.dropdown li:hover > a i {
