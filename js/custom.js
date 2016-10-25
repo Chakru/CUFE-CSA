@@ -1,3 +1,13 @@
+var target = $('.cad');
+var targetHeight = target.outerHeight()-60;
+
+$(document).scroll(function(e){
+    var scrollPercent = (-targetHeight +window.scrollY) / targetHeight;
+    if(scrollPercent <= 100){
+        target.css('opacity', scrollPercent);
+    }
+});
+
 var THEMEMASCOT = THEMEMASCOT || {};
 
 (function($) {
