@@ -1,6 +1,6 @@
 var target = $('.cad');
 var targetHeight = target.outerHeight()-60;
-
+target.css('opacity', 0);
 $(document).scroll(function(e){
     var scrollPercent = (-targetHeight +window.scrollY) / targetHeight;
     if(scrollPercent <= 100){
