@@ -1337,6 +1337,16 @@ section > .container-fluid {
         clear: left;
     }
 }
+.col-md-5{
+  width: 700px;
+}
+.col-md-12{
+  width: 1400px;
+  margin-left: -60px;
+}
+.col-md-7{
+  width: 55 0px;
+}
 @media (min-width: 992px) {
     /* reset previous grid */
     .multi-row-clearfix .col-sm-6:nth-child(2n + 3) {
