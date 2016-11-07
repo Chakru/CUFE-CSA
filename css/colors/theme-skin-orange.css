@@ -10,7 +10,8 @@ COLOR CODE: #FF5722
 }
 /* text-hover-theme-color */
 .text-hover-theme-colored:hover {
-  color: #FFFFFF !important;
+  /*color: #FFFFFF !important;*/
+  color: #FF5722 !important;
 }
 /* background-theme-color */
 .bg-theme-colored {
@@ -64,7 +65,8 @@ COLOR CODE: #FF5722
   background-color: #FFFFFF;
 }
 .preloader-dot-loading .cssload-loading i {
-  background: #FFFFFF !important;
+  /*background: #FFFFFF !important;*/
+  color: #FF5722 !important;
 }
 /*
  * background: theme-color
