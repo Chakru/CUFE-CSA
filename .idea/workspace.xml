@@ -2,17 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d52023c7-2084-4c70-b94b-77c943a62537" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Wings/activitycenter2.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/photos/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/photos/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/photos/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/photos/volunteer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/project/StudentExposureTrip.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/project/sponsorship3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/project/volunteerExposure.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/Wings/activitycenter.jpg" afterPath="$PROJECT_DIR$/images/Wings/activitycenter.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/Wings/dristi.jpg" afterPath="$PROJECT_DIR$/images/Wings/dristi.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="CSA.iws" />
@@ -38,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="938" column="45" selection-start-line="938" selection-start-column="45" selection-end-line="938" selection-end-column="45" />
+            <state relative-caret-position="212">
+              <caret line="592" column="123" selection-start-line="592" selection-start-column="123" selection-end-line="592" selection-end-column="123" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -648,16 +637,16 @@
       <workItem from="1479062971862" duration="1324000" />
       <workItem from="1479140586702" duration="3268000" />
       <workItem from="1479486650244" duration="5087000" />
-      <workItem from="1479571024011" duration="20000" />
+      <workItem from="1479571024011" duration="670000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62934000" />
+    <option name="totallyTimeSpent" value="63584000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -978,8 +967,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="938" column="45" selection-start-line="938" selection-start-column="45" selection-end-line="938" selection-end-column="45" />
+        <state relative-caret-position="212">
+          <caret line="592" column="123" selection-start-line="592" selection-start-column="123" selection-end-line="592" selection-end-column="123" />
           <folding>
             <element signature="n#style#0;n#img#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
