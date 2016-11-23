@@ -1,0 +1,28 @@
+﻿body {background:no-repeat top center url('../design/background1.jpg'); 
+      background-color:#000;}
+
+/*--------------------------------- Contact DIV ----------------------------------*/
+#contact {width:987px; height:650px; margin:auto; color:#837351;}
+          
+/*---------------------------------- About me  ---------------------------------*/
+#aboutme {margin-top:70px; padding:0 70px 0 50px; width:490px; float:left;}
+#aboutme li {float:left}
+#aboutme li img {padding-right:5px; border:none;}
+#aboutme li a:hover img {margin-top:3px;}
+#aboutme h1 {color:#f2eada; font-family:"Trebuchet MS", Verdana, Arial;}
+#aboutme em {color:#b2a17e;}
+#aboutme h4 {font-weight:bold; color:#f2eada;}
+#aboutme img {float:left; padding:0px 15px 10px 0;}
+
+/*-------------------------------- Contact Form --------------------------------*/
+#contactform {margin-top:80px; color:#f2eada; float:left;}
+#contactform h5 {font-weight:bold; margin:0px; padding:10px 0px 10px 0px;}
+#contactform input, textarea{width:300px; background:#24200d; border:1px solid #433821; 
+                             font:12px Arial; color:#f2eada; padding:4px;}
+#contactform textarea {height:180px; overflow:auto;}
+#contactform .buttonsend {width:60px; height:25px; background:#595026; margin-top:5px; 
+                          font:bold 12px Arial; color:#fff; cursor:pointer;}
+form.cmxform label.error, label.error {margin-left:10px; font:15px Arial; color:#b3a86c;}
+#contact-thanks {float:left; margin:210px 0 0 10px; padding:20px 60px 20px 60px;}
+#contact-thanks h2 {color:#f2eada; line-height:2px;}
+#contact-thanks em {line-height:1px;}
