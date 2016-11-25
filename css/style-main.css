@@ -7068,3 +7068,10 @@ blockquote p {
     text-align: center;
     font-size: xx-large;
 }
+
+.align
+{
+    alignment: right;
+    text-align: right;
+    font-size: xx-small;
+}
