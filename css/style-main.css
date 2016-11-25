@@ -7075,3 +7075,13 @@ blockquote p {
     text-align: right;
     font-size: xx-small;
 }
+
+.transform
+{
+    transform: rotate(180deg);
+}
+
+.transform1
+{
+    transform: rotate(180deg);
+}
