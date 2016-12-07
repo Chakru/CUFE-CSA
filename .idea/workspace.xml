@@ -684,7 +684,7 @@
       <workItem from="1480573096099" duration="656000" />
       <workItem from="1480955923900" duration="2448000" />
       <workItem from="1481042136348" duration="6890000" />
-      <workItem from="1481089695625" duration="4525000" />
+      <workItem from="1481089695625" duration="4661000" />
     </task>
     <task id="LOCAL-00001" summary="M&amp;C image is changed">
       <created>1480358249458</created>
@@ -732,7 +732,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129305000" />
+    <option name="totallyTimeSpent" value="129441000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
