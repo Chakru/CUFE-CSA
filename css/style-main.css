@@ -464,7 +464,14 @@ iframe {
 }
 .text-gray-darkgray {
     color: #a9a9a9 !important;
+
 }
+
+.text-gray-white {
+    color: #ffffff !important;
+
+}
+
 .text-gray-silver {
     color: #c0c0c0 !important;
 }
@@ -6933,7 +6940,7 @@ blockquote p {
     font-weight: 400;
 }
 .widget.dark .widget-title {
-    color: #fff;
+    color: #ffffff;
 }
 .widget.dark .widget-title.line-bottom {
     border-bottom: 1px dotted #444;
@@ -7074,6 +7081,12 @@ blockquote p {
     alignment: right;
     text-align: right;
     font-size: xx-small;
+}
+
+.alignment2
+{
+    alignment: center;
+    text-align: center;
 }
 
 .transform
